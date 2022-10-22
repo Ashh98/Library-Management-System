@@ -4,12 +4,12 @@ This project is aimed to deliver a fully-fledged Library Management System that 
 
 <div align="center">
   <kbd>
-    <img src="https://ibb.co/tCfmbhp" />
+    <img src="[https://ibb.co/tCfmbhp](https://i.ibb.co/5cDM59h/lmslogin.png)" />
   </kbd>
 </div>
 <div align="center">
   <kbd>
-    <img src="https://ibb.co/k8q0gnm" />
+    <img src="[https://ibb.co/k8q0gnm](https://i.ibb.co/SnV0XTf/lmsgui.png)" />
   </kbd>
 </div>
 
