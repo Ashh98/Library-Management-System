@@ -1,6 +1,6 @@
 # Library Management System
 
-This project is aimed to deliver a fully-fledged Library Management System that is fully capable and ready to use in library-related tasks. Several features are taken into consideration while designing the system. 
+This project is aimed to deliver a fully-fledged Library Management System that is fully capable and ready to use for library-related tasks. Several features are taken into consideration while designing the system. 
 
 <div align="center">
   <kbd>
